@@ -1,0 +1,20 @@
+@media (max-width: 620px) {
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .menu {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    li {
+        padding: 10px;
+        border-radius: 4px;
+    }
+}
